@@ -1,0 +1,1 @@
+- contains PSD files (or similar) for client branding materials like business cards, logo, etc.
