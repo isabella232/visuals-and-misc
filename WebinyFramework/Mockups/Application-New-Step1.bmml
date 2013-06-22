@@ -1,0 +1,208 @@
+<mockup version="1.0" skin="sketch" measuredW="1759" measuredH="1113" mockupW="1675" mockupH="1100">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="383" y="142" w="1366" h="961" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Webiny%20Framework%20Manager%0Ahttp%3A//localhost/</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="387" y="210" w="1362" h="70" measuredW="100" measuredH="70" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>15790322</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="398" y="225" w="163" h="40" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Webiny%20Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="1686" y="220" w="48" h="49" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Avatar</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="__group__" x="1359" y="225" w="-1" h="-1" measuredW="157" measuredH="40" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="157" h="40" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="9">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="41" y="7" w="87" h="25" measuredW="87" measuredH="25" zOrder="1" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>Notifications</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="11" y="8" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="9">
+          <controlProperties>
+            <icon>LightBulbIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="128" y="8" w="25" h="23" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="9">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+            <color>11776947</color>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="136" y="9" w="13" h="25" measuredW="13" measuredH="25" zOrder="4" locked="false" isInGroup="9">
+          <controlProperties>
+            <text>5</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="1531" y="225" w="-1" h="-1" measuredW="136" measuredH="40" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="136" h="40" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <borderStyle>roundedSolid</borderStyle>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="41" y="7" w="87" h="25" measuredW="79" measuredH="25" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <text>Applications</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="11" y="8" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="16">
+          <controlProperties>
+            <icon>DataBaseIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::TextInput" x="576" y="230" w="272" h="-1" measuredW="95" measuredH="33" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Search%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Icon" x="820" y="235" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::StickyNote" x="74" y="3" w="155" h="102" measuredW="109" measuredH="123" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Please%20use%20a%20lot%20of%20icons.</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::StickyNote" x="238" y="3" w="155" h="102" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Use%20%22font%20awesome%22%20for%20icons.</text>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Icon" x="881" y="235" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <icon>HelpIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::Label" x="909" y="237" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Help</text>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::FieldSet" x="709" y="354" w="768" h="394" measuredW="200" measuredH="170" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Label" x="709" y="306" w="-1" h="-1" measuredW="185" measuredH="40" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>New%20application</text>
+      </controlProperties>
+    </control>
+    <control controlID="127" controlTypeID="com.balsamiq.mockups::Canvas" x="709" y="361" w="768" h="42" measuredW="100" measuredH="70" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15790322</color>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::ButtonBar" x="717" y="366" w="-1" h="-1" measuredW="431" measuredH="31" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1.%20General%2C%202.%20Components%2C%203.%20Configuration%2C%204.%20Finish</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::FieldSet" x="732" y="499" w="723" h="197" measuredW="200" measuredH="170" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>General%20application%20settings</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Canvas" x="709" y="714" w="768" h="42" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15790322</color>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Button" x="717" y="721" w="106" h="28" measuredW="65" measuredH="28" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16737894</color>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Button" x="1320" y="721" w="135" h="28" measuredW="106" measuredH="28" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <text>Next%20Step%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Canvas" x="732" y="416" w="723" h="70" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Paragraph" x="747" y="417" w="697" h="74" measuredW="200" measuredH="140" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>14</size>
+        <text>Please%20define%20your%20application%20name%20and%20the%20url%20under%20which%20should%20be%20accessible.%0AMake%20sure%20you%20add%20the%20domain%20name%20to%20your%20server%20and%20point%20the%20domain%20to%20*/var/www/webiny/apps/%7BAPP_FOLDER%7D*</text>
+      </controlProperties>
+    </control>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Label" x="747" y="534" w="196" h="34" measuredW="107" measuredH="34" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>App%20name%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::TextInput" x="993" y="532" w="435" h="-1" measuredW="132" measuredH="38" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>My%20test%20app</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="747" y="579" w="196" h="34" measuredW="119" measuredH="34" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>App%20folder%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::TextInput" x="1204" y="577" w="224" h="-1" measuredW="137" measuredH="38" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>my_test_app</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::Label" x="991" y="581" w="-1" h="-1" measuredW="211" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>8421504</color>
+        <size>18</size>
+        <text>/var/www/webiny/apps/</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::Label" x="747" y="628" w="196" h="34" measuredW="143" measuredH="34" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Website%20URL%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="143" controlTypeID="com.balsamiq.mockups::TextInput" x="991" y="624" w="435" h="-1" measuredW="313" measuredH="38" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>http%3A//www.my-test-app.com/</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::StickyNote" x="487" y="499" w="208" h="168" measuredW="109" measuredH="123" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Take%20care%20of%20inline%20validation%20errors.%0AInputs%2C%20and%20%22next%20step%22%20button%20should%20have%20a%20loading%20state.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
